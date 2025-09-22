@@ -127,3 +127,12 @@
     color: white;
     font-weight: 700;
   }
+
+  .a {
+    color: black !important;
+  }
+
+  .hero {
+    background-image: url(/assets/imagens/BANNER.png);
+    
+  }
