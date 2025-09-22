@@ -133,6 +133,6 @@
   }
 
   .hero {
-    background-image: url(/assets/imagens/BANNER.png);
-    
+    display: flex;
+    justify-content: space-between;
   }
